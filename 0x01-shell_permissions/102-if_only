@@ -1,2 +1,2 @@
 #!/bin/bash
-find  -exec chown betty hello {} 
+chmod --from=guillaume betty hello 
